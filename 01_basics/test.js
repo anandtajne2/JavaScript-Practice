@@ -1,1 +1,2 @@
-console.log('Anand')
+var str = "Anand"
+console.log(typeof(str))
